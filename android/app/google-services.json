@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469259020663",
+    "project_id": "otpverify-6888f",
+    "storage_bucket": "otpverify-6888f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469259020663:android:e59f95575a0e897bab1972",
+        "android_client_info": {
+          "package_name": "com.hardcore.zym_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469259020663-8mb692lgsskgafufhtj2dihfeme73q0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGB0ZmHI-JfuCMXlKlB_4DetDOuXnnrp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469259020663-8mb692lgsskgafufhtj2dihfeme73q0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
